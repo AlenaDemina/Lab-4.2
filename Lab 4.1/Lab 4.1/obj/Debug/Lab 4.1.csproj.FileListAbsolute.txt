@@ -1,0 +1,15 @@
+C:\Users\Alena\Desktop\дурдом\ПИОГИ\sem 3\Lab4.1\Lab 4.1\Lab 4.1\bin\Debug\Lab 4.1.exe.config
+C:\Users\Alena\Desktop\дурдом\ПИОГИ\sem 3\Lab4.1\Lab 4.1\Lab 4.1\bin\Debug\Lab 4.1.exe
+C:\Users\Alena\Desktop\дурдом\ПИОГИ\sem 3\Lab4.1\Lab 4.1\Lab 4.1\bin\Debug\Lab 4.1.pdb
+C:\Users\Alena\Desktop\дурдом\ПИОГИ\sem 3\Lab4.1\Lab 4.1\Lab 4.1\obj\Debug\Lab 4.1.csprojAssemblyReference.cache
+C:\Users\Alena\Desktop\дурдом\ПИОГИ\sem 3\Lab4.1\Lab 4.1\Lab 4.1\obj\Debug\MainWindow.g.cs
+C:\Users\Alena\Desktop\дурдом\ПИОГИ\sem 3\Lab4.1\Lab 4.1\Lab 4.1\obj\Debug\App.g.cs
+C:\Users\Alena\Desktop\дурдом\ПИОГИ\sem 3\Lab4.1\Lab 4.1\Lab 4.1\obj\Debug\Lab 4.1_MarkupCompile.cache
+C:\Users\Alena\Desktop\дурдом\ПИОГИ\sem 3\Lab4.1\Lab 4.1\Lab 4.1\obj\Debug\Lab 4.1_MarkupCompile.lref
+C:\Users\Alena\Desktop\дурдом\ПИОГИ\sem 3\Lab4.1\Lab 4.1\Lab 4.1\obj\Debug\MainWindow.baml
+C:\Users\Alena\Desktop\дурдом\ПИОГИ\sem 3\Lab4.1\Lab 4.1\Lab 4.1\obj\Debug\Lab 4.1.g.resources
+C:\Users\Alena\Desktop\дурдом\ПИОГИ\sem 3\Lab4.1\Lab 4.1\Lab 4.1\obj\Debug\Lab_4._1.Properties.Resources.resources
+C:\Users\Alena\Desktop\дурдом\ПИОГИ\sem 3\Lab4.1\Lab 4.1\Lab 4.1\obj\Debug\Lab 4.1.csproj.GenerateResource.cache
+C:\Users\Alena\Desktop\дурдом\ПИОГИ\sem 3\Lab4.1\Lab 4.1\Lab 4.1\obj\Debug\Lab 4.1.csproj.CoreCompileInputs.cache
+C:\Users\Alena\Desktop\дурдом\ПИОГИ\sem 3\Lab4.1\Lab 4.1\Lab 4.1\obj\Debug\Lab 4.1.exe
+C:\Users\Alena\Desktop\дурдом\ПИОГИ\sem 3\Lab4.1\Lab 4.1\Lab 4.1\obj\Debug\Lab 4.1.pdb

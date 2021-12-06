@@ -30,18 +30,21 @@ namespace Lab_4._1
             double x = double.Parse(A.Text);
             double y = double.Parse(B.Text);
             double r = x / y;
+            v.Content = r;
         }
         private void _1_Click(object sender, RoutedEventArgs e)
         {
             double x = double.Parse(A.Text);
             double y = double.Parse(B.Text);
             double r = x + y;
+            v.Content = r;
         }
         private void _2_Click(object sender, RoutedEventArgs e)
         {
             double x = double.Parse(A.Text);
             double y = double.Parse(B.Text);
             double r = x - y;
+            v.Content = r;
         }
         private void _3_Click(object sender, RoutedEventArgs e)
         {
