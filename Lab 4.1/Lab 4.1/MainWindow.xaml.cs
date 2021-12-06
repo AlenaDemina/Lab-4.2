@@ -24,5 +24,13 @@ namespace Lab_4._1
         {
             InitializeComponent();
         }
+
+        private void _4_Click(object sender, RoutedEventArgs e)
+        {
+            double x = double.Parse(A.Text);
+            double y = double.Parse(B.Text);
+            double r = x / y;
+            v.Content = r;
+        }
     }
 }
